@@ -86,6 +86,10 @@ p {
   margin-right: 15px;
 }
 
+.container .pricing .plan-box h2 {
+  font-size: 16px;
+}
+
 .container .buttons {
   display: flex;
   flex-direction: column;
