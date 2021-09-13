@@ -52,7 +52,8 @@ p {
 
 .container .title {
   color: var(--dark-blue);
-  margin: 15px 0;
+  margin: 25px 0 15px 0;
+  font-size: 30px;
   font-weight: 900;
 }
 
@@ -66,7 +67,7 @@ p {
 }
 
 .container .pricing {
-  margin: 20px auto;
+  margin: 30px auto;
   padding: 10px;
   background-color: var(--very-pale-blue);
   width: 90%;
